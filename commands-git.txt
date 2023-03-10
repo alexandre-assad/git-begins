@@ -9,3 +9,7 @@ Pour push :
 -> git add .
 -> git commit -m "Message qui a du sens"
 -> git push -u origin main
+
+#Pour pull :
+il suffit simplement d'entrer sur le terminal :
+->git pull
