@@ -1,0 +1,11 @@
+Pour cloner un répertoire :
+-prendre l'url du répertoire
+-ouvrir le terminal puis rentré la commande suivante :
+git clone "url"
+
+Pour push :
+-Ouvrir le terminal et rentrer les commandes suivantes :
+#Optionel avant : git status 
+-> git add .
+-> git commit -m "Message qui a du sens"
+-> git push -u origin main
